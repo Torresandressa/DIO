@@ -1,0 +1,71 @@
+Exercício 1
+O que são algoritmos e pseudocódigo
+
+----------------------------------
+inicio do dia 
+inicio da Manha
+Acordo
+levanto
+vou ao quarto do noah
+pego o noah no colo
+pego o leite do noah
+sento na cama 
+dou leite para o noah
+coloco a mamadeira em um canto
+deito o noah na cama
+vou ao quarto do noah
+pego uma fralda para o noah
+volto para meu quarto
+tiro a roupa do noah
+tiro a fralda do noah
+passo lenco umedecido no noah 
+passo pomada no noah
+coloco fralda limpa no noah
+brinco com o noah
+levo o noah ate o david
+preparo o cafe da manha
+levo o cafe ate o david
+tomamos cafe da manha
+levo as loucas do cafe ate a pia
+vou para meu banheiro
+escovo os dentes
+vou para a sala
+pego o noah
+faco o noah dormir
+levo o noah ate o quarto dele
+fim da manha
+inicio da tarde
+preparo o almoco 
+sirvo o almoco
+retiro a louca 
+lavo a louca
+SE noah acordou
+leia linhas 9 a 24
+fim da tarde
+inicio da noite
+david cuida do noah
+estudo por 2 horas 
+passo um tempo com o noah e david
+david prepara o jantar
+brinco com o noah
+leia linhas 11 a 14
+david coloca o jantar na mesa
+jantamos todos juntos
+david retira as louças da mesa
+david prepara a roupa do noah
+eu tiro a roupa e a fralda do noah
+tomo banho com o noah
+david faz leia linhas 21 a 23 
+david coloca roupa limpa no noah
+saio do banho
+coloco o pijama
+brincamos com o noah
+leia linhas 10 a 14
+leia linha 34
+oro
+durmo
+fim da noite
+fim do dia
+
+
+
